@@ -24,7 +24,7 @@ The following sites were helpful in working with C++:
 * [Gotta Be Geek on YouTube](https://www.youtube.com/watch?v=522VxAk4GoI) Video tutorial on how to set up C/C++ for Visual Studio Code
 * [Visualstudio](https://code.visualstudio.com/docs/cpp/config-mingw) Setting up Visual Studio Code for C/C++
 * [MSYS2](https://www.msys2.org/) Setting up Visual Studio Code for C/C++
-* 
+* [W3Schools](https://www.w3schools.com/cpp/default.asp) A site with helpful tutorials for writing C++ code
 
 ## Future Work
 
