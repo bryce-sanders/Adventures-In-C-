@@ -20,9 +20,11 @@
 
 ## Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+The following sites were helpful in working with C++:
+* [Gotta Be Geek on YouTube](https://www.youtube.com/watch?v=522VxAk4GoI) Video tutorial on how to set up C/C++ for Visual Studio Code
+* [Visualstudio](https://code.visualstudio.com/docs/cpp/config-mingw) Setting up Visual Studio Code for C/C++
+* [MSYS2](https://www.msys2.org/) Setting up Visual Studio Code for C/C++
+* 
 
 ## Future Work
 
