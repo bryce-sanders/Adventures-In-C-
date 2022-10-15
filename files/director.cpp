@@ -36,7 +36,8 @@ int make_selection() {
     }
     else if (selection == 3) {
         cout << "\n";
-        cout << "Good\n";
+        cout << "Exiting... Have a good day";
+        exit(0);
     }
     else {
         cout << "\n";
@@ -53,7 +54,6 @@ int main() {
     print_main_menu();
     make_selection();
     main();
-
 
     return 0;
 }
