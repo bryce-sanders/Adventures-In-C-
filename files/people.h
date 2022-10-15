@@ -5,7 +5,6 @@ using namespace std;
 class Person {  // The class
   public:  // Access specifier
     string name;  // The person's name
-    int age;  // The person's age in years
     string idNumber;  // The Person's ID number
 };
 
