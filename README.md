@@ -25,6 +25,7 @@ The following sites were helpful in working with C++:
 * [Visualstudio](https://code.visualstudio.com/docs/cpp/config-mingw) Setting up Visual Studio Code for C/C++
 * [MSYS2](https://www.msys2.org/) Setting up Visual Studio Code for C/C++
 * [W3Schools](https://www.w3schools.com/cpp/default.asp) A site with helpful tutorials for writing C++ code
+* [GeeksForGeeks](https://www.geeksforgeeks.org/initialize-a-vector-in-cpp-different-ways/) How to use vectors in C++
 
 ## Future Work
 
