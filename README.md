@@ -2,21 +2,19 @@
 
 ## Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This project marks my very first venture into the use of the C++ programming language. In completing this project, I have the opportunity, not only to learn a very marketable and widely used programming language, but also to demonstrate that I can pick up the basics of new coding languages quickly.
 
-{Provide a description the software that you wrote to demonstrate the C++ language.}
+This program stores student and staff information. It allows the user to enter the information of a new student or staff member and stores it in a vector. The program uses inheritance to create "Student" and "Staff" child classes from a "Person" parent class.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
+I am undertaking this project to help me to further my academic progress.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 ## Development Environment
 
-{Describe the tools that you used to develop the software}
+This program was developed in Visual Studio Code
 
-{Describe the programming language that you used and any libraries.}
+The program is written in C++ and makes special use of vectors
 
 ## Useful Websites
 
@@ -29,7 +27,7 @@ The following sites were helpful in working with C++:
 
 ## Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+Things I would like to work on or add in the future:
+* User entries will cause errors if they contain spaces. I would like to find the root cause of this and fix it in the future.
+* The terminal looks messy with a bunch of white text on a black background. I would like to add color to the text in the future to make it more easily distinguishable.
+* The classes I created are pretty bare-bones. I would like to add methods to the classes that I can call in the future.
