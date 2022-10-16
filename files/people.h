@@ -20,5 +20,5 @@ class Student: public Person {
 class Staff: public Person {
   public:
     double pay;  // The staff member's hourly wage
-    double yearWage = pay * 2080;  // The staff members estimated yearly salary
+    double yearWage;  // The staff members estimated yearly salary
 };
