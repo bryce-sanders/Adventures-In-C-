@@ -8,7 +8,7 @@ This program stores student and staff information. It allows the user to enter t
 
 I am undertaking this project to help me to further my academic progress.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=Z3zsGVqGqdo)
 
 ## Development Environment
 
